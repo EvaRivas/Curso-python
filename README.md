@@ -8,4 +8,6 @@ DÍA 1
 ETL.
 
 DÍA 2
-
+06 Clases.
+06 Bucles.
+ETL.
