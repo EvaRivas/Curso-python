@@ -16,3 +16,9 @@ DÍA 3
 -07 Librerías
 -07 Numpy 1D
 -Prophet, predecir valor
+
+DÍA 4
+-SpaceX-1 Data Collection API
+-SpaceX-2 EDA 
+-SpaceX-3 EDA Using SQL
+-SpaceX-4 EDA With Data Visualization
