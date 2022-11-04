@@ -11,3 +11,8 @@ DÍA 2
 06 Clases.
 06 Bucles.
 ETL.
+
+DÍA 3
+07 Librerías.
+07 Numpy 1D.
+Prophet, predecir valor.
